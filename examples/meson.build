@@ -45,6 +45,7 @@ all_examples = [
         'ptpclient',
         'qos_meter',
         'qos_sched',
+        'rcu_qsbr',
         'rxtx_callbacks',
         'server_node_efd/efd_node',
         'server_node_efd/efd_server',
